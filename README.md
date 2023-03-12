@@ -3,4 +3,4 @@
 </div>
 
 ### 
-I am an iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+:iphone: I am an iOS Developer.
